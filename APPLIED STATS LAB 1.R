@@ -21,5 +21,4 @@ patient.data <- data.frame(
 			
 patient.data
 #array
-a<-arrayx1:9,dim(3))
-a
+a<-arrayx1:9,dim(3)
